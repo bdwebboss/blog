@@ -1,0 +1,18 @@
+
+/* register page css */
+.dsf{
+    display: flex;
+}
+.pd-10{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.ds-block{
+    display: block;
+}
+
+/* password recovery section */
+
+.txd-n{
+    text-decoration: none;
+}
